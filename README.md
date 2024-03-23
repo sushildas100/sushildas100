@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 📫 How to reach me **kuddul0@gmail.com**
+- 📫 How to reach me **sushilkumardas07@gmail.com**
 
 - ⚡ Fun fact **I am funny as sweet as a tea.**
 
