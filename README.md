@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sushil Kumar Das</h1>
+<h1 align="center">Hi <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />, I'm Sushil Kumar Das</h1>
 <h3 align="center">A passionate Programmer | AI and ML enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
