@@ -31,7 +31,7 @@
 ```yaml
 Name      : Sushil Kumar Das
 Role      : AI Engineer (Senior Associate Consultant)
-Company   : Invenio Business Solutions, Hyderabad
+Company   : Deloitte, Bengaluru
 Focus     : Agentic AI · LLM Orchestration · RAG · MCP
 Experience: 2+ Years in AI/ML Engineering
 
@@ -47,7 +47,7 @@ Currently:
   - Engineering hybrid RAG solutions
 
 Contact  : sushilkumardas07@gmail.com
-Location : Hyderabad, India 🇮🇳
+Location : Bengaluru, India 🇮🇳
 ```
 
 <br clear="right"/>
